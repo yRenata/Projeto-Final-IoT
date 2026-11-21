@@ -66,6 +66,5 @@ O firmware identifica automaticamente dois padrões diferentes de envio de coman
 ## 📁 Estrutura do Projeto
 
 ```text
-├── src/               # Código-fonte do firmware para RoboCore Vespa (.ino)
-├── docs/              # Diagramas de ligação e documentação técnica
+├── codigo.ino/               # Código-fonte do firmware para RoboCore Vespa (.ino)
 └── README.md          # Guia principal do projeto
